@@ -1,6 +1,6 @@
 
-# Invoice Maker
+# Cart-Management
 
-Live project here
+live project here
 
 https://cart-management-pj.netlify.app/
